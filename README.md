@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Aquí puedes colocar un banner personalizado con la identidad visual de Henki (puedes usar un diseño basado en image_6e3a86.jpg) -->
-  <img src="TU_URL_DE_BANNER_HENKI.png" alt="Henki Banner" width="100%">
+  <img src="Banner.png" alt="Henki Banner" width="100%">
 </p>
 
 <p align="center">
