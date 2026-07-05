@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Apps">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Bases de datos">
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Agile">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Devops">
+  <img src="https://img.shields.io/badge/Apps-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Apps">
+  <img src="https://img.shields.io/badge/BD-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Bases de datos">
+  <img src="https://img.shields.io/badge/Agile-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Agile">
+  <img src="https://img.shields.io/badge/Devops-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Devops">
 </p>
 
 ---
@@ -25,15 +25,22 @@
 ## 📚 Cursos Destacados (Henki)
 
 Presentamos formación técnica y metodológica diseñada para potenciar habilidades reales:
-
 <table>
   <tr>
     <td width="50%" align="center">
+      <a href="https://www.youtube.com/playlist?list=PLE1nGr44V0Eo0oEwVLSXkn36HcqrK1yNw" target="_blank">
+        <img src="scrum.png" alt="Curso Scrum" width="100%" style="border-radius: 8px;">
+      </a>
+      <br><br>
       <strong>Aprende Gestión Ágil de Proyectos</strong><br><br>
       <sub>Domina Scrum desde cero y lidera equipos con metodologías ágiles en proyectos del mundo real.</sub><br><br>
       <a href="https://www.youtube.com/playlist?list=PLE1nGr44V0Eo0oEwVLSXkn36HcqrK1yNw" target="_blank">🎬 Ver Curso</a>
     </td>
     <td width="50%" align="center">
+      <a href="https://www.youtube.com/playlist?list=PLE1nGr44V0ErCMvoYCl220X79zzvDyK4r" target="_blank">
+        <img src="jetpack.png" alt="Curso Jetpack Compose" width="100%" style="border-radius: 8px;">
+      </a>
+      <br><br>
       <strong>Jetpack Compose Guía Moderna</strong><br><br>
       <sub>Aprende a diseñar interfaces móviles fluidas y modernas en Android utilizando arquitectura MVVM.</sub><br><br>
       <a href="https://www.youtube.com/playlist?list=PLE1nGr44V0ErCMvoYCl220X79zzvDyK4r" target="_blank">🎬 Ver Curso</a>
@@ -41,11 +48,19 @@ Presentamos formación técnica y metodológica diseñada para potenciar habilid
   </tr>
   <tr>
     <td width="50%" align="center">
+      <a href="https://www.youtube.com/playlist?list=PLE1nGr44V0Eq-TnVK3k4uBJhWPFIQUBIv" target="_blank">
+        <img src="devops.png" alt="Curso DevOps" width="100%" style="border-radius: 8px;">
+      </a>
+      <br><br>
       <strong>DevOps Práctico desde Cero</strong><br><br>
       <sub>Automatiza despliegues y asegura tus entornos web mediante pipelines de integración continua (CI/CD).</sub><br><br>
       <a href="https://www.youtube.com/playlist?list=PLE1nGr44V0Eq-TnVK3k4uBJhWPFIQUBIv" target="_blank">🎬 Ver Curso</a>
     </td>
     <td width="50%" align="center">
+      <a href="https://www.youtube.com/playlist?list=PLE1nGr44V0EqMC_-A3_o3Yv6ut5bFDJ-f" target="_blank">
+        <img src="mysql.png" alt="Curso MySQL" width="100%" style="border-radius: 8px;">
+      </a>
+      <br><br>
       <strong>MySQL y Optimización de Bases de Datos</strong><br><br>
       <sub>Aprende a crear consultas rápidas, eficientes y con bases totalmente estables.</sub><br><br>
       <a href="https://www.youtube.com/playlist?list=PLE1nGr44V0EqMC_-A3_o3Yv6ut5bFDJ-f" target="_blank">🎬 Ver Curso</a>
