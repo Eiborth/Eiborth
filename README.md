@@ -1,9 +1,6 @@
 # <p align="center">Hola, soy <a href="https://www.henki.com.ve/" target="_blank" style="text-decoration: none; color: #4285F4;">Eiborth</a> 👋</p>
 
-<p align="center">
-  <!-- Aquí puedes colocar un banner personalizado con la identidad visual de Henki (puedes usar un diseño basado en image_6e3a86.jpg) -->
-  <img src="Banner.png" alt="Henki Banner" width="100%">
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apps-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Apps">
